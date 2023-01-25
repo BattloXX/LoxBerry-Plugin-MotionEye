@@ -2,7 +2,7 @@ ffmpeg
 libmariadb3
 libpq5
 libmicrohttpd12
-python-pip
+python3-pip
 python-dev
 libssl-dev
 libcurl4-openssl-dev
